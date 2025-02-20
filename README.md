@@ -104,7 +104,3 @@ Developed by Laavanjan | Faculty of IT, Batch 22
 ## 💡 Contributing
 
 Contributions and suggestions are highly welcome! Feel free to fork the repository and submit a pull request. For significant changes, please open an issue to discuss them first.
-
-## 📧 Contact
-
-Laavanjan - [Your Email Address] - [Your LinkedIn Profile (Optional)]
