@@ -9,7 +9,7 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/models)
 
 **HuggingFace-YT-Web-Summarizer** is a robust Streamlit application designed to efficiently extract and summarize content from both YouTube videos and web pages. Leveraging the power of LangChain and Hugging Face's state-of-the-art models, including **Mistral-Small-24B-Base-2501**, this tool provides concise summaries, enhancing information accessibility and saving valuable time.
-
+![Alt Text](img1.png)
 
 ## 🚀 Features
 
@@ -78,7 +78,18 @@
 
 ## 🖼 Screenshots
 
-*(Add screenshots here to showcase the application's interface and functionality)*
+*( screenshots here to showcase the application's interface and functionality)*
+<table>
+  <tr>
+    <td><img src="img2.png" alt="Screenshot 1" width="400"></td>
+    <td><img src="img3.png" alt="Screenshot 2" width="400"></td>
+  </tr>
+    <tr>
+    <td><img src="img4.png" alt="Screenshot 1" width="400"></td>
+    <td><img src="img5.png" alt="Screenshot 2" width="400"></td>
+  </tr>
+</table>
+
 
 ## 🔧 Technologies Used
 
